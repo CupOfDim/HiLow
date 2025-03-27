@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8640cfa9c9f2a14688541107ee3fe47, type: 3}
+  m_Name: New Card Data SO
+  m_EditorClassIdentifier: 
+  cardData:
+  - <Vol>k__BackingField: 2
+    <Suit>k__BackingField: Hearts
+    <Sprite>k__BackingField: {fileID: 871179995, guid: 42776c718ffa1a741bfd7bd34bd955d9, type: 3}
+  - <Vol>k__BackingField: 3
+    <Suit>k__BackingField: Hearts
+    <Sprite>k__BackingField: {fileID: -422846342, guid: 42776c718ffa1a741bfd7bd34bd955d9, type: 3}
+  - <Vol>k__BackingField: 4
+    <Suit>k__BackingField: Hearts
+    <Sprite>k__BackingField: {fileID: -1798081267, guid: 42776c718ffa1a741bfd7bd34bd955d9, type: 3}
+  - <Vol>k__BackingField: 5
+    <Suit>k__BackingField: Hearts
+    <Sprite>k__BackingField: {fileID: -1884622079, guid: 42776c718ffa1a741bfd7bd34bd955d9, type: 3}
+  - <Vol>k__BackingField: 6
+    <Suit>k__BackingField: Hearts
+    <Sprite>k__BackingField: {fileID: 1600952980, guid: 42776c718ffa1a741bfd7bd34bd955d9, type: 3}
+  - <Vol>k__BackingField: 7
+    <Suit>k__BackingField: Hearts
+    <Sprite>k__BackingField: {fileID: -917096387, guid: 42776c718ffa1a741bfd7bd34bd955d9, type: 3}
+  - <Vol>k__BackingField: 8
+    <Suit>k__BackingField: Hearts
+    <Sprite>k__BackingField: {fileID: 853105850, guid: 42776c718ffa1a741bfd7bd34bd955d9, type: 3}
+  - <Vol>k__BackingField: 9
+    <Suit>k__BackingField: Hearts
+    <Sprite>k__BackingField: {fileID: -2037118570, guid: 42776c718ffa1a741bfd7bd34bd955d9, type: 3}
+  - <Vol>k__BackingField: 10
+    <Suit>k__BackingField: Hearts
+    <Sprite>k__BackingField: {fileID: -1915181557, guid: 42776c718ffa1a741bfd7bd34bd955d9, type: 3}
+  - <Vol>k__BackingField: 11
+    <Suit>k__BackingField: Hearts
+    <Sprite>k__BackingField: {fileID: -1476331830, guid: 42776c718ffa1a741bfd7bd34bd955d9, type: 3}
+  - <Vol>k__BackingField: 12
+    <Suit>k__BackingField: Hearts
+    <Sprite>k__BackingField: {fileID: 963496347, guid: 42776c718ffa1a741bfd7bd34bd955d9, type: 3}
+  - <Vol>k__BackingField: 13
+    <Suit>k__BackingField: Hearts
+    <Sprite>k__BackingField: {fileID: 180647820, guid: 42776c718ffa1a741bfd7bd34bd955d9, type: 3}
+  - <Vol>k__BackingField: 14
+    <Suit>k__BackingField: Hearts
+    <Sprite>k__BackingField: {fileID: -1437695442, guid: 42776c718ffa1a741bfd7bd34bd955d9, type: 3}
